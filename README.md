@@ -1,4 +1,4 @@
-# My Awesome Project
+# Drag N' Drop Kanban Board
 This was originally from a tutorial. The focus was JS for the drag-and-drop feature. Which I hope to use on future projects.
 
 **Link to project:** Coming Soon!
@@ -13,7 +13,6 @@ I built this project using a combination of HTML, CSS, and JavaScript to create 
 
 
 ## Optimizations
-*(optional)*
 
 One notable optimization was refining the drag-and-drop algorithm to make it more efficient and responsive during user interactions. Additionally, I implemented caching strategies for assets to improve loading times, ensuring a smoother overall experience for users.
 

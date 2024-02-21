@@ -1,7 +1,7 @@
 # My Awesome Project
 This was originally from a tutorial. The focus was JS for the drag-and-drop feature. Which I hope to use on future projects.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** Coming Soon!
 
 ![screen shot](https://github.com/StewedDownSteve/Drag_Drop_kanban/blob/main/DragDrop_kaban_img.png?raw=true)
 
